@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4GZGdpy9Cv6PwMXhIm/Akv8ZdKyvwicDTvEmNKq2Bha7uvxeFmgNIGAeG+wloNWzujld+xp9bwQy3CT3z9z1KQ==",
+  "dgSpecHash": "buSNMeNNwLT+iU3fEazJARhtm2ZjpUpbRnrKMp3kpYc3Qc5SrY23lUBFFosGiM50A1BKamm3mfhoy22rQ2+9Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\RFK\\RFK.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Spencer Saunders\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\Spencer Saunders\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

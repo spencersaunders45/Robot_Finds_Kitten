@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Unit04.Game.Casting;
-using Unit04.Game.Services;
+using RFK.Game.Casting;
+using RFK.Game.Services;
 
 
-namespace Unit04.Game.Directing
+namespace RFK.Game.Directing
 {
    /// <summary>
    /// <para>A person who directs the game.</para>
