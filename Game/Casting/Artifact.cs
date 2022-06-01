@@ -14,7 +14,7 @@ namespace RFK.Game.Casting
     class Artifact : Actor
     {
 
-        string _message;
+        string message;
 
     // 2) Create the class constructor. Use the following method comment.
 
@@ -23,7 +23,7 @@ namespace RFK.Game.Casting
         /// </summary>
         public Artifact()
         {
-            _message = String.Empty;
+            message = String.Empty;
         }
 
     // 3) Create the GetMessage() method. Use the following method comment.
@@ -34,7 +34,7 @@ namespace RFK.Game.Casting
         /// <returns>The message as a string.</returns>
         public string GetMessage()
         {
-            return _message;
+            return message;
         }
 
 
@@ -46,7 +46,7 @@ namespace RFK.Game.Casting
         /// <param name="message">The given message.</param>
         public void SetMessage(string message)
         {
-            _message = message;
+            this.message = message;
         }
 
     }
